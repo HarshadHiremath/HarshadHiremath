@@ -1,64 +1,93 @@
-# ⚡ Welcome to my Terminal
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=25&pause=1000&color=238636&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+Enthusiast;UI/UX+Architect" alt="Typing SVG" />
+<p align="right"> 
+  <img src="https://gpvc.arturio.dev/YOUR_USERNAME" alt="Profile count"> 
 </p>
 
----
+<div align="center">
+  <!-- Top of Pokeball Image -->
+  <p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
 
-### 👨‍💻 About Me
-I am a front-end developer specializing in **React** and **Tailwind CSS**. I love creating high-contrast, terminal-inspired user interfaces that bridge the gap between functionality and aesthetics.
+  <details open="">
+    <summary><b>SYSTEM INITIALIZED: OPEN PROFILE</b></summary>
+    <p><br></p>
+    
+    <div align="center">
+      <!-- Your Profile Avatar / Image -->
+      <img height="200" alt="Cyber Avatar" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png">
+    </div>
 
-- 🔭 I’m currently working on **Visitor Analytics Dashboards**
-- ⚡ Knowledge in: **React, JavaScript, Tailwind CSS, EmailJS**
-- 🎨 Preferred Theme: **Cyber / Terminal (Green & White)**
-- 💬 Ask me about: **Web Optimization & UI Design**
+    <div align="center">
+      <!-- Animated Typing SVG -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=238636&center=true&vCenter=true&width=500&lines=Greetings+User;I+am+a+Web+Developer;React+%26+Tailwind+Expert;Cyber+Aesthetic+Lover;Problem+Solver+by+Design" alt="Typing SVG">
+      </a>
+    </div>
 
----
+    <details open="">
+      <summary><b>0x01: ABOUT_ME</b></summary>
+      <div align="left">
+        <pre class="astro-code github-dark" style="background-color:#0d1117; color:#e6edf3; overflow-x: auto; padding: 15px; border: 1px solid #238636; border-radius: 5px;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/**</span></span>
+<span class="line"><span style="color:#6A737D"> * @identity  : Front-End Developer</span></span>
+<span class="line"><span style="color:#6A737D"> * @focus     : React.js & Tailwind CSS</span></span>
+<span class="line"><span style="color:#6A737D"> * @location  : [Your City, Country]</span></span>
+<span class="line"><span style="color:#6A737D"> * @specialty : Creating Cyber-Themed UIs</span></span>
+<span class="line"><span style="color:#6A737D"> * @project   : Visitor Analytics Dashboard</span></span>
+<span class="line"><span style="color:#6A737D"> * @status    : Open for collaboration</span></span>
+<span class="line"><span style="color:#6A737D"> * @throws    : SystemError on messy code</span></span>
+<span class="line"><span style="color:#6A737D"> */</span></span></code></pre>
+      </div>
+    </details>
 
-### 🟩 Daily Active Streak Calendar
+    <details open="">
+      <summary><b>0x02: TECH_STATION</b></summary>
+      <div align="center">
+        <p>
+          <kbd><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /> React.js</kbd>
+          <kbd><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> Tailwind CSS</kbd>
+          <kbd><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> JavaScript</kbd>
+          <kbd><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> Node.js</kbd>
+        </p>
+        <p>
+          <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
+          <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
+          <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
+          <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+        </p>
+      </div>
+    </details>
+
+    <details open="">
+      <summary><b>0x03: MISSION_LOGS (LINKS)</b></summary>
+      <br>
+      <table align="center">
+        <tr>
+          <td><a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a></td>
+          <td><a href="YOUR_RESUME_LINK">📄 Resume</a></td>
+        </tr>
+        <tr>
+          <td><a href="YOUR_LINKEDIN_LINK">🔗 LinkedIn</a></td>
+          <td><a href="YOUR_LEETCODE_LINK">💻 LeetCode</a></td>
+        </tr>
+      </table>
+    </details>
+
+    <details open="">
+      <summary><b>0x04: ACTIVITY_SPECTRUM</b></summary>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&fire=238636&ring=238636&background=0d1117" alt="GitHub Streak" />
+      </p>
+      <p align="center">
+        <img src="https://github-chart.3081.workers.dev/238636/YOUR_USERNAME" alt="Contribution Grid" />
+      </p>
+    </details>
+
+  </details>
+
+  <!-- Bottom of Pokeball Image -->
+  <p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></p>
+</div>
+
+<hr>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&fire=238636&ring=238636&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-chart.3081.workers.dev/238636/YOUR_USERNAME" alt="Daily Contribution Calendar" />
-</p>
-
----
-
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🔗 Connect With Me
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="YOUR_TWITTER_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="YOUR_PORTFOLIO_URL" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/238636/web.png" alt="Portfolio" height="30" width="30" /></a>
-</p>
-
----
-
-### 🏆 Coding Profiles & Resume
-- 📄 [View My Resume](YOUR_RESUME_LINK)
-- 🚀 [Portfolio Website](YOUR_PORTFOLIO_LINK)
-- 💡 [LeetCode Profile](YOUR_LEETCODE_LINK)
-- 💻 [HackerRank Profile](YOUR_HACKERRANK_LINK)
-
----
-
-### 📊 Contribution Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&font_size=18&title_color=238636&icon_color=238636&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=238636&style=flat" alt="Views" />
+  <i>"Clean code is not written by accident."</i><br>
+  <b>Last Sync: 2026-04-14</b>
 </p>
